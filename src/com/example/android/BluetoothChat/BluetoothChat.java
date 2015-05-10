@@ -16,6 +16,10 @@
 
 package com.example.android.BluetoothChat;
 
+
+
+
+
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
